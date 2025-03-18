@@ -71,6 +71,11 @@ For scaling to extremely large files (10GB+), I would make these additional impr
 4. **Checkpointing**: Add resume capability to restart from the last successful checkpoint if interrupted
 5. **Resource Monitoring**: Dynamically adjust batch sizes based on available system resources
 
+
+## Final result
+
+After running the code, all 30.001 rows were processed, with 111 duplicates found, and 29889 inserted
+
 ## Usage
 
 1. Configure the application in `appsettings.json`
