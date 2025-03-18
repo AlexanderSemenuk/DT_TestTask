@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiDataETL.Console", "TaxiDataETL.Console\TaxiDataETL.Console.csproj", "{01E71697-DB41-4B90-A41B-34546CA42376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiDataETL.Core", "TaxiDataETL.Core\TaxiDataETL.Core.csproj", "{F15F905D-CF19-4AA1-98C9-48C13A3DC60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiDataETL.Infrastructure", "TaxiDataETL.Infrastructure\TaxiDataETL.Infrastructure.csproj", "{D441A3BF-832B-4F17-AA22-711ED14E1E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E71697-DB41-4B90-A41B-34546CA42376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E71697-DB41-4B90-A41B-34546CA42376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E71697-DB41-4B90-A41B-34546CA42376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E71697-DB41-4B90-A41B-34546CA42376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15F905D-CF19-4AA1-98C9-48C13A3DC60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15F905D-CF19-4AA1-98C9-48C13A3DC60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15F905D-CF19-4AA1-98C9-48C13A3DC60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15F905D-CF19-4AA1-98C9-48C13A3DC60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D441A3BF-832B-4F17-AA22-711ED14E1E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D441A3BF-832B-4F17-AA22-711ED14E1E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D441A3BF-832B-4F17-AA22-711ED14E1E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D441A3BF-832B-4F17-AA22-711ED14E1E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
